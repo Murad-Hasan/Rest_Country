@@ -1,0 +1,8 @@
+.header-style{
+    text-align: center;
+    color: white;
+    background: linear-gradient(to left, rgba(207, 207, 211,0.2), rgba(212, 209, 213,0.3));
+    padding-bottom: 5px;
+    font-family: cursive;
+    padding: 20px 0px;
+}

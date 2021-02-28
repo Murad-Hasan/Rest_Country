@@ -1,0 +1,31 @@
+.details-cart{
+    width: 300px;
+    height: 550px;
+    border: 1px solid lightcyan;
+    border-radius: 5px;
+    backdrop-filter: blur(2px);
+    background-color: rgba(60, 57, 57, 0.618);
+    border: none;
+    box-shadow: 5px 5px 10px black;
+    margin-right: 5px;
+    text-align:center;
+}
+
+.details-cart img {
+    width: 260px;
+    height: 165px;
+    margin: 10px 0px;
+}
+.table{
+    border-collapse: collapse;
+    width: 90%;
+    font-size: 18px;
+    margin-left: 15px;
+    color: white;
+}
+
+tr, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid rgb(97, 92, 92);
+  }

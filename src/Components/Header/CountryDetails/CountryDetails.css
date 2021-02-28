@@ -1,0 +1,31 @@
+.country-details{
+    width: 320px;
+    height: 350px;
+    border: 1px solid gray;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(3px);
+    border: none;
+    box-shadow: 5px 5px 10px rgb(36, 26, 26);
+}
+.country-details h3{
+    font-family: cursive;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.country-details img{
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+}
+.details-btn{
+    padding : 10px 20px;
+    background: goldenrod;
+    border: 1px solid grayscale;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
